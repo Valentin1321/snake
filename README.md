@@ -1,0 +1,2 @@
+# snake
+default snake
